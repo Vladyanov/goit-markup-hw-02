@@ -1,0 +1,15 @@
+/* основной цвет #212121 */
+/* второй цвет #757575 */
+/* цвет при hover #2196F3 */
+/* цвет h1 #FFFFFF */
+body {
+    --primary-color: #212121;
+    --secondary-color: #757575;
+    --blue-color: #2196F3;
+    --white-text-color: #FFFFFF;
+    --black-color: #000000;
+}
+
+
+
+
