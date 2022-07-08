@@ -179,6 +179,7 @@ body {
 }
 
 .address .footer-contacts {
+    text-decoration: none;
     font-style: normal;
     line-height: 1.71;
     
@@ -209,3 +210,8 @@ body {
     border-radius: 4px;
 }
 
+/* Карточки портфолио */
+
+.portfolio-box  {
+    border: 1px solid #EEEEEE;
+}
