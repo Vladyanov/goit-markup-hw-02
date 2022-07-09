@@ -103,6 +103,7 @@ body {
 }
 
 .button {
+    font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.88;
@@ -126,6 +127,7 @@ body {
     font-weight: 700;
     line-height: 1.14;
     font-size: 14px;
+    text-transform: uppercase;
     
     color: var(--secondary-color);
 }
@@ -192,7 +194,9 @@ body {
     
     color: var(--address-color);
 }
-/* ============== FOOTER =============== */
+/* ============== /FOOTER =============== */
+
+
 
 /* ============== portfolio.html =============== */
 
@@ -224,27 +228,24 @@ body {
 }
 /* ============== /КНОПКИ ПОРТФОЛИО =============== */
 
-
 /* ============== ГАЛЕРЕЯ РАБОТ =============== */
 .portfolio .portfolio-box  {
     border: 1px solid #EEEEEE;
 }
 
-.portfolio .portfolio-title {
+.portfolio-title {
     font-weight: 700;
     font-size: 18px;
     line-height: 2.0;
-    /* identical to box height, or 200% */
     
     letter-spacing: 0.06em;
     
     color: var(--secondary-color);
 }
 
-.portfolio .portfolio-text {
+.portfolio-text {
     font-size: 16px;
     line-height: 1.88;
     
-    color: #757575;
 }
 /* ============== /ГАЛЕРЕЯ РАБОТ =============== */
